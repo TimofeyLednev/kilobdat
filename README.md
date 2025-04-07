@@ -13,4 +13,4 @@ Kilobdat is a C++ program for editing save files of a game. It allows you to mod
 - C++ compiler (e.g., g++)
 
 ## How to Build
-= look in 'BUILD.md' 
+= look in `BUILD.md`
