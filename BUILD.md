@@ -14,7 +14,7 @@ Follow these steps to build and run the Kilobdat program:
 2. **Navigate to the project directory**:
   cd kilobdat
 3. **Compile the program**:
-  - On Linux/MacOS (using g++):
+  - On Linux/MacOS/HaikuOS (using g++):
   g++ main.cpp GameFunctions.cpp -o kilobdat
   - On Windows (using MinGW):
   g++ main.cpp GameFunctions.cpp -o kilobdat.exe
